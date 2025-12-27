@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Bimsara Wijewantha</h1>
 <h3 align="center"> Exploring the Boundless World of Technology</h3>
 <h3 align="center">Java Developer | Spring Boot Enthusiast | AI & ML Learner</h3>
-<h3 align="center"> Exploring the Boundless World of Technology</h3>
 
 <p align="center">
   Building robust backends, interactive frontends, and exploring the future of AI.
