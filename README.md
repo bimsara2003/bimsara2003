@@ -36,7 +36,7 @@ An IT Undergraduate specializing in **Artificial Intelligence** at SLIIT. I'm a 
 
 ## 📨 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/bimsara-wijewantha/)e)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/bimsara-wijewantha/](https://www.linkedin.com/in/bimsara-wijewantha/)
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
 - 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
