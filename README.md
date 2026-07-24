@@ -37,7 +37,7 @@ An IT Undergraduate specializing in **Artificial Intelligence** at SLIIT. I'm a 
 ## 📨 Connect with Me
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/bimsara-wijewantha/](https://www.linkedin.com/in/bimsara-wijewantha/)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- 📧 **Email:** 
+- 🌐 **Portfolio:** 
 
 "The Psychology of Money reminds us that doing well with money (and code) isn't necessarily about what you know. It's about how you behave." 😉
